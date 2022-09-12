@@ -1,0 +1,41 @@
+1.1c
+Performance measure: winning, following the rules of the game
+Environment: chessboard
+Actuators: next move
+Sensors: move input (way of giving the machine update to the board state)
+
+properties of the task environment:
+- fully observable: whole board is visible at any time
+- deterministic: only agents can affect the position reached before
+- sequential: every move has future consequences
+- semi-dynamic: chess (static game) played with a clock (impact of time passing)
+- discrete: game divisible into small parts (moves)
+- multi-agent: two players competing over one goal
+
+1.1d
+virtual assistant
+P: answer to a question, carried out task
+E: human
+A: speach module, access to phone applications
+S: voice recognition
+
+Environment properties:
+- partially observable
+- single-agent
+- nondeterministic
+- episodic or sequential (virtual assistant can learn from previous command or not)
+- static
+- discrete
+
+1.1e
+simple reflex agent follows a set of rules not really knowing what it is doing
+model-bassed reflex agent follows set of rules as well but, additionally, keeps track of the state of the world around it
+goal-bassed agent also keeps track of its environment but is focuses on completing its goal
+utility-based agent focuses on maximizing its inner "score" that keeps strack of task's quality
+
+1.2b
+- chatbot on companies websites offering help
+- chatbot used during phonecalls to identify clients problem
+- chetbot used to quickly reply to messages or emails
+
+1.2
