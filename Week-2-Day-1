@@ -38,4 +38,16 @@ utility-based agent focuses on maximizing its inner "score" that keeps strack of
 - chatbot used during phonecalls to identify clients problem
 - chetbot used to quickly reply to messages or emails
 
-1.2
+1.2d
+rule-based: 
+  + easy to implement, use of professional language
+  - predefined answers make it easy to go out of chatbot's scope
+ retrieval-based:
+  + ability to self learn, use of professional language
+  - predefined answers make it easy to go out of chatbot's scope
+generative:
+  + generating response to every message means that it can reply to anything
+  - difficult to implement, generated messages can sometimes have grammar errors or don't make any sense
+
+1.2f
+ELIZA is a rule-based chatbot. It operates based on keywords in human message to reply accordingly
