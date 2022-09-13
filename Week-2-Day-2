@@ -1,0 +1,28 @@
+1c
+Example: wind
+Data: It's windy
+Information: the wind speed is 120 km/h
+knowledge: Wind is the product of the difference of pressure. At this speed, this wind will cause massive damage
+Wisdom: Based on technology we have today, we are able to predict strong hurricanes
+
+Example: boiling an egg
+Data: We are boiling an egg
+Information: Water temperature is 95°C and it's been 15 minutes so far
+knowledge: It is enough to boil an egg
+Wisdom: Based on calculations, we can predict how long we should boil given egg for it to be ready
+
+2e
+Descriptive: making a summary of past year sales in a car shop
+Diagnostic: Figuring out why do cabriolets sell way better periodicaly
+Predictive: Aswering the question of how many cabriolets will be sold next month
+Prescriptive: checking whether we need to order more cabriolets to sell next month
+
+2f
+excel
+  + easy to use, allows for quick creation of many graphs 
+  - not interactive dashboards
+
+2g
+Microsoft tutorial: https://docs.microsoft.com/en-us/power-bi/fundamentals/power-bi-overview
+book: Beginning Microsoft Power BI: A Practical Guide to Self-Service Data Analytics 3rd ed. Edition
+Youtube video: https://www.youtube.com/watch?v=AuYzsfXKkbM
