@@ -1,0 +1,18 @@
+1b
+Supervised learning requires labeled data to train the model. Then, the machine is able to work on a new case based on experience built from previous examples.
+Unsupervised learning means there is no labels. Computer figures out everything by itself and creates its model that way.
+
+1d
+Inference is the process where computer creates new symbolic connections by itself through propositional logic.
+Expert system is a rule based system that imitates a human expert based on their knowledge and applied logic.
+
+1e
+ANNs are somewhat similar to biological ones but they differ heavily as well. For example, Neural networks are less populated and can produce every value from 0 to 1
+instead of biological 1 or 0.
+
+1f
+ANN uses connectionist aproach. It tries to mimic human brain and the way it works.
+
+1g
+I would consider using symbolic aproach in places where people might be rejected so that they could at least know what was the key factor instead of
+"the machine spit out NO".
